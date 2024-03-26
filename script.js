@@ -5,6 +5,7 @@ let obj2 = {age:5, name: "Person 1"};
 let compare = JSON.stringify(obj1)
 console.log(compare);
 console.log(obj2);
+console.log(" ");
 
 //2.) Use the rest countries' API URL => https://restcountries.com/v3.1/all and display all the country flags in the console
 // 2)ANSWER =>
